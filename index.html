@@ -2,32 +2,38 @@
 <html lang="en">
 
 <head>
-  <title>SF 20 TS Final Task</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="./index.css" />
-  <style>
+    <title>To Do List TS Final Task</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./index.css" />
+    <style>
 
-  </style>
+    </style>
 </head>
 
 <body>
 
-  <div id="myDIV" class="header">
-    <h2 style="margin:5px">My To Do List</h2>
-    <input type="text" id="myInput" placeholder="Title...">
-    <span id="addBtn" class="addBtn">Add</span>
-  </div>
+    <header class="header">
+        <div class="header__container container" id="j-div">
+            <h2 class="header__heading">My To Do List</h2>
+            <input class="header__input" id="j-input" type="text" placeholder="Title...">
+            <span class="header__addBtn" id="j-add-btn">Add</span>
+        </div>
+    </header>
 
-  <ul id="myUL">
-    <li>Hit the gym</li>
-    <li class="checked">Pay bills</li>
-    <li>Meet George</li>
-    <li>Buy eggs</li>
-    <li>Read a book</li>
-    <li>Organize office</li>
-  </ul>
+    <main>
+        <section class="hero">
+            <ul class="hero__list" id="j-ul">
+                <li class="hero__list-item">Hit the gym</li>
+                <li class="hero__list-item hero__list-item_checked">Pay bills</li>
+                <li class="hero__list-item">Meet George</li>
+                <li class="hero__list-item">Buy eggs</li>
+                <li class="hero__list-item">Read a book</li>
+                <li class="hero__list-item">Organize office</li>
+            </ul>
+        </section>
+    </main>
 
-  <script src="./index.js"></script>
+    <script src="./index.js"></script>
 </body>
 
 </html>
