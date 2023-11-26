@@ -118,6 +118,7 @@ ul li.hero__list-item_checked {
     cursor: pointer;
     transition: 0.3s;
     border-radius: 0;
+    border: none;
 }
 
 .header__addBtn:hover {
