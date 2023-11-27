@@ -1,6 +1,6 @@
 # project_to-do-list / список дел
 
-Цель: перевести проект *To Do List* с JavaScript на TypeScript
+**Цель:** перевести проект *To Do List* с JavaScript на TypeScript
 
 ## Описание проекта
 Проект *To Do List* - это список дел, которые нужно выполнить.<br>
