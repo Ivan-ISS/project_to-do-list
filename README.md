@@ -29,6 +29,8 @@
 &nbsp; :heavy_check_mark: Использование методологии БЭМ для наименования классов<br>
 &nbsp; :heavy_check_mark: Соблюдение правил написания кода – кодстайла<br>
 
+---
+
 **Для запуска проекта нужно:**
 
 &nbsp; :heavy_check_mark: клонировать себе репозиторий: git clone https://github.com/Ivan-ISS/project_to-do-list.git;<br>
