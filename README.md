@@ -20,7 +20,7 @@
 ## Технологии:
 <img src="https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white" alt="CSS3"/>&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white" alt="TS"/>&nbsp;
 <img src="https://img.shields.io/badge/BEM-18d0ff?logo=bem&logoColor=white" alt="BEM"/>&nbsp;
 
 ## В проекте реализовано:
